@@ -1,4 +1,29 @@
+
 # Getting Started with Create React App
+A machine learning powered system that recommends internships to students based on their skills, interests, and academic background.
+The engine uses Natural Language Processing (NLP) to analyze internship descriptions and student profiles, then applies content-based filtering + collaborative filtering techniques to suggest the most relevant opportunities.
+
+🔹 Features
+
+Personalized internship recommendations
+
+Skill & interest based matching
+
+AI-driven ranking of opportunities
+
+Easy integration with web platforms
+
+Scalable for large datasets
+
+🔹 Tech Stack
+
+Python / Node.js (Backend)
+
+React (Frontend)
+
+Machine Learning (Scikit-learn / TensorFlow / PyTorch)
+
+Database (MongoDB / MySQL / PostgreSQL)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
